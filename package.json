@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://bennydan7.github.io/react-robofriends",
+  "homepage": "http://bennydan7.github.io/react-robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
